@@ -1,0 +1,15 @@
+/Users/alyaklyusheva/Projects/Week3IfAndSwitch/bin/Debug/net6.0/Week3IfAndSwitch
+/Users/alyaklyusheva/Projects/Week3IfAndSwitch/bin/Debug/net6.0/Week3IfAndSwitch.deps.json
+/Users/alyaklyusheva/Projects/Week3IfAndSwitch/bin/Debug/net6.0/Week3IfAndSwitch.runtimeconfig.json
+/Users/alyaklyusheva/Projects/Week3IfAndSwitch/bin/Debug/net6.0/Week3IfAndSwitch.dll
+/Users/alyaklyusheva/Projects/Week3IfAndSwitch/bin/Debug/net6.0/Week3IfAndSwitch.pdb
+/Users/alyaklyusheva/Projects/Week3IfAndSwitch/obj/Debug/net6.0/Week3IfAndSwitch.csproj.AssemblyReference.cache
+/Users/alyaklyusheva/Projects/Week3IfAndSwitch/obj/Debug/net6.0/Week3IfAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyaklyusheva/Projects/Week3IfAndSwitch/obj/Debug/net6.0/Week3IfAndSwitch.AssemblyInfoInputs.cache
+/Users/alyaklyusheva/Projects/Week3IfAndSwitch/obj/Debug/net6.0/Week3IfAndSwitch.AssemblyInfo.cs
+/Users/alyaklyusheva/Projects/Week3IfAndSwitch/obj/Debug/net6.0/Week3IfAndSwitch.csproj.CoreCompileInputs.cache
+/Users/alyaklyusheva/Projects/Week3IfAndSwitch/obj/Debug/net6.0/Week3IfAndSwitch.dll
+/Users/alyaklyusheva/Projects/Week3IfAndSwitch/obj/Debug/net6.0/refint/Week3IfAndSwitch.dll
+/Users/alyaklyusheva/Projects/Week3IfAndSwitch/obj/Debug/net6.0/Week3IfAndSwitch.pdb
+/Users/alyaklyusheva/Projects/Week3IfAndSwitch/obj/Debug/net6.0/Week3IfAndSwitch.genruntimeconfig.cache
+/Users/alyaklyusheva/Projects/Week3IfAndSwitch/obj/Debug/net6.0/ref/Week3IfAndSwitch.dll

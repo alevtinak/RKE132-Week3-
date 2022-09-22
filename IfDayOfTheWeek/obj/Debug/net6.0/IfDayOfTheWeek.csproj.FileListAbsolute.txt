@@ -1,0 +1,15 @@
+/Users/alyaklyusheva/Projects/IfDayOfTheWeek/bin/Debug/net6.0/IfDayOfTheWeek
+/Users/alyaklyusheva/Projects/IfDayOfTheWeek/bin/Debug/net6.0/IfDayOfTheWeek.deps.json
+/Users/alyaklyusheva/Projects/IfDayOfTheWeek/bin/Debug/net6.0/IfDayOfTheWeek.runtimeconfig.json
+/Users/alyaklyusheva/Projects/IfDayOfTheWeek/bin/Debug/net6.0/IfDayOfTheWeek.dll
+/Users/alyaklyusheva/Projects/IfDayOfTheWeek/bin/Debug/net6.0/IfDayOfTheWeek.pdb
+/Users/alyaklyusheva/Projects/IfDayOfTheWeek/obj/Debug/net6.0/IfDayOfTheWeek.csproj.AssemblyReference.cache
+/Users/alyaklyusheva/Projects/IfDayOfTheWeek/obj/Debug/net6.0/IfDayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyaklyusheva/Projects/IfDayOfTheWeek/obj/Debug/net6.0/IfDayOfTheWeek.AssemblyInfoInputs.cache
+/Users/alyaklyusheva/Projects/IfDayOfTheWeek/obj/Debug/net6.0/IfDayOfTheWeek.AssemblyInfo.cs
+/Users/alyaklyusheva/Projects/IfDayOfTheWeek/obj/Debug/net6.0/IfDayOfTheWeek.csproj.CoreCompileInputs.cache
+/Users/alyaklyusheva/Projects/IfDayOfTheWeek/obj/Debug/net6.0/IfDayOfTheWeek.dll
+/Users/alyaklyusheva/Projects/IfDayOfTheWeek/obj/Debug/net6.0/refint/IfDayOfTheWeek.dll
+/Users/alyaklyusheva/Projects/IfDayOfTheWeek/obj/Debug/net6.0/IfDayOfTheWeek.pdb
+/Users/alyaklyusheva/Projects/IfDayOfTheWeek/obj/Debug/net6.0/IfDayOfTheWeek.genruntimeconfig.cache
+/Users/alyaklyusheva/Projects/IfDayOfTheWeek/obj/Debug/net6.0/ref/IfDayOfTheWeek.dll

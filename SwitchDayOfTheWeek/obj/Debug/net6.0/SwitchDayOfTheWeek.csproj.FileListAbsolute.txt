@@ -1,0 +1,15 @@
+/Users/alyaklyusheva/Projects/SwitchDayOfTheWeek/bin/Debug/net6.0/SwitchDayOfTheWeek
+/Users/alyaklyusheva/Projects/SwitchDayOfTheWeek/bin/Debug/net6.0/SwitchDayOfTheWeek.deps.json
+/Users/alyaklyusheva/Projects/SwitchDayOfTheWeek/bin/Debug/net6.0/SwitchDayOfTheWeek.runtimeconfig.json
+/Users/alyaklyusheva/Projects/SwitchDayOfTheWeek/bin/Debug/net6.0/SwitchDayOfTheWeek.dll
+/Users/alyaklyusheva/Projects/SwitchDayOfTheWeek/bin/Debug/net6.0/SwitchDayOfTheWeek.pdb
+/Users/alyaklyusheva/Projects/SwitchDayOfTheWeek/obj/Debug/net6.0/SwitchDayOfTheWeek.csproj.AssemblyReference.cache
+/Users/alyaklyusheva/Projects/SwitchDayOfTheWeek/obj/Debug/net6.0/SwitchDayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyaklyusheva/Projects/SwitchDayOfTheWeek/obj/Debug/net6.0/SwitchDayOfTheWeek.AssemblyInfoInputs.cache
+/Users/alyaklyusheva/Projects/SwitchDayOfTheWeek/obj/Debug/net6.0/SwitchDayOfTheWeek.AssemblyInfo.cs
+/Users/alyaklyusheva/Projects/SwitchDayOfTheWeek/obj/Debug/net6.0/SwitchDayOfTheWeek.csproj.CoreCompileInputs.cache
+/Users/alyaklyusheva/Projects/SwitchDayOfTheWeek/obj/Debug/net6.0/SwitchDayOfTheWeek.dll
+/Users/alyaklyusheva/Projects/SwitchDayOfTheWeek/obj/Debug/net6.0/refint/SwitchDayOfTheWeek.dll
+/Users/alyaklyusheva/Projects/SwitchDayOfTheWeek/obj/Debug/net6.0/SwitchDayOfTheWeek.pdb
+/Users/alyaklyusheva/Projects/SwitchDayOfTheWeek/obj/Debug/net6.0/SwitchDayOfTheWeek.genruntimeconfig.cache
+/Users/alyaklyusheva/Projects/SwitchDayOfTheWeek/obj/Debug/net6.0/ref/SwitchDayOfTheWeek.dll

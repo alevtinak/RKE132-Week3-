@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{786F02A4-6934-4B1E-A46C-2233607B997D}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Week3IfAndSwitch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.IfDayOfTheWeek PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OddOrEven PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SwitchDayOfTheWeek FirstBuild="True" />
+</Properties>
